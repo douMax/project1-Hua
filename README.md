@@ -48,3 +48,6 @@ ___
 - I used [randomColor.js](https://github.com/davidmerfield/randomColor) to generate aesthetically pleasing random colors for my drawing app.
 
 - I've felt grateful for all the help I got from Luke & Matt and all my classmates along the way in WDI22, Sydney,  [General Assembly](https://generalassemb.ly/).
+
+
+Lingxiao likes it and forked it.
